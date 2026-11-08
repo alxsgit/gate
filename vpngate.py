@@ -72,6 +72,15 @@ DEFAULT_EDGE_HOSTS = [
     "best.hzample.kdns.fr:443",
     "ctsg.cfyx.aliyun.20237737.xyz:443",
     "china-unicom.cname.cloudflare.468123.xyz:443",
+    "cdn.2x.nz:443",
+    "www.carousell.sg:443",
+    "www.mfyx.cn:443",
+    "uspto.gov:443",
+    "staticdelivery.nexusmods.com:443",
+    "www.blibli.com:443",
+    "fn.130519.xyz:443",
+    "hzytjy.cn:443",
+    "www.jp.pima.gov:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
